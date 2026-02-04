@@ -68,4 +68,4 @@ We thank the following contributors for making their codes available:
 
 3) We also express our sincere appreciation to the authors of these 10 algorithms. 🙏
 
-
+Note: In earlier versions of our work, the method was referred to as CaReTS. In this repository, ClReTS and CaReTS are used interchangeably and refer to the same approach.
