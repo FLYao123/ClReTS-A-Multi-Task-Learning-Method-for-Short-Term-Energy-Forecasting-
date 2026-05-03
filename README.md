@@ -1,9 +1,11 @@
-×××××××× A Multi-Task Learning Method for Short-Term Energy Forecasting with Interpretable Trend–Deviation Decomposition ××××××××
+×××××××× CaReTS: A Multi-Task Framework Unifying Classification and Regression for Time Series Forecasting ××××××××
 
 
 📖 Introduction
 
-This repository contains the official implementation of the manuscript (submitted): "A Multi-Task Learning Method for Short-Term Energy Forecasting with Interpretable Trend–Deviation Decomposition".
+This repository contains the official implementation of the manuscript (submitted): "CaReTS: A Multi-Task Framework Unifying Classification and Regression for Time Series Forecasting".
+
+If you find this useful, please cite the paper ‘Yao, F., Zhao, W., Zheng, C., & Han, X. (2025). CaReTS: A Multi-Task Framework Unifying Classification and Regression for Time Series Forecasting. arXiv preprint arXiv:2511.09789.’ Thanks.
 
 We propose ClReTS (also called CaReTS), a novel multi-task learning framework for short-term energy time series forecasting. The framework jointly models classification and regression tasks through a dual-stream architecture:
 
