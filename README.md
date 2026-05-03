@@ -7,7 +7,7 @@ This repository contains the official implementation of the manuscript (submitte
 
 If you find this useful, please cite the paper ‘Yao, F., Zhao, W., Zheng, C., & Han, X. (2025). CaReTS: A Multi-Task Framework Unifying Classification and Regression for Time Series Forecasting. arXiv preprint arXiv:2511.09789.’ Thanks.
 
-We propose ClReTS (also called CaReTS), a novel multi-task learning framework for short-term energy time series forecasting. The framework jointly models classification and regression tasks through a dual-stream architecture:
+We propose ClReTS (also called CaReTS), a novel multi-task learning framework for short-term time series forecasting. The framework jointly models classification and regression tasks through a dual-stream architecture:
 
 1) Classification branch: captures step-wise future trends;
 
