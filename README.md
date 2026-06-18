@@ -69,5 +69,3 @@ We thank the following contributors for making their codes available:
 2) SOTA baselines (2 models: SOIT2FNN-MO, D-CNN-LSTM) 👉 [FLYao123] https://github.com/FLYao123/A_Self-organizing_Interval_Type-2_Fuzzy_Neural_Network
 
 3) We also express our sincere appreciation to the authors of these 10 algorithms. 🙏
-
-Note: In earlier versions of our work, the method was referred to as CaReTS. In this repository, ClReTS and CaReTS are used interchangeably and refer to the same approach.
